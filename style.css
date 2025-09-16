@@ -1,5 +1,5 @@
 :root {
-  --red:#a03636; --gold:#f2a900; --black:#000000;
+  --red:#a01010; --gold:#f2a900; --black:#000000;
 }
 body { font-family: system-ui, sans-serif; margin:0; background:var(--red); color:#fff; }
 header { background:var(--black); color:#fff; padding:1rem; }
